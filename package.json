@@ -1,0 +1,19 @@
+{
+  "name": "store-app-node-express",
+  "version": "1.0.0",
+  "description": "A Simple Store App with Nodejs and Expressjs. Using mongoDB as Data base.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaliliali/store-app-node-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaliliali/store-app-node-express/issues"
+  },
+  "homepage": "https://github.com/khaliliali/store-app-node-express#readme"
+}
