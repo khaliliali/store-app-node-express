@@ -10,7 +10,7 @@ const app = express();
 // Routes
 app.get('/', (req, res) => {
   res.send(
-    '<h2>Store App   </h2> <a href="/api/v1/products">Products Route</a>'
+    '<h2>Store App  </h2> <a href="/api/v1/products">Products Route</a>'
   );
 });
 
